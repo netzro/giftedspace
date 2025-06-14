@@ -1,0 +1,531 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Tags on Gifted Space</title>
+    <link>//localhost:1313/tags/</link>
+    <description>Recent content in Tags on Gifted Space</description>
+    <generator>Hugo -- 0.147.8</generator>
+    <language>en-us</language>
+    <copyright>Gifted, 2025</copyright>
+    <lastBuildDate>Sun, 08 Jun 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cronie</title>
+      <link>//localhost:1313/tags/cronie/</link>
+      <pubDate>Sun, 08 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/cronie/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Termux</title>
+      <link>//localhost:1313/tags/termux/</link>
+      <pubDate>Sun, 08 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/termux/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Mindfulness</title>
+      <link>//localhost:1313/tags/mindfulness/</link>
+      <pubDate>Mon, 02 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/mindfulness/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Nts</title>
+      <link>//localhost:1313/tags/nts/</link>
+      <pubDate>Mon, 02 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/nts/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Self-Improvement</title>
+      <link>//localhost:1313/tags/self-improvement/</link>
+      <pubDate>Mon, 02 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/self-improvement/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Transformation</title>
+      <link>//localhost:1313/tags/transformation/</link>
+      <pubDate>Mon, 02 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/transformation/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Motivation</title>
+      <link>//localhost:1313/tags/motivation/</link>
+      <pubDate>Tue, 27 May 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/motivation/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Forex</title>
+      <link>//localhost:1313/tags/forex/</link>
+      <pubDate>Sun, 25 May 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/forex/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Hermeticism</title>
+      <link>//localhost:1313/tags/hermeticism/</link>
+      <pubDate>Sun, 25 May 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/hermeticism/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Kybalion</title>
+      <link>//localhost:1313/tags/kybalion/</link>
+      <pubDate>Sun, 25 May 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/kybalion/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Reflection</title>
+      <link>//localhost:1313/tags/reflection/</link>
+      <pubDate>Sun, 25 May 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/reflection/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Trading</title>
+      <link>//localhost:1313/tags/trading/</link>
+      <pubDate>Sun, 25 May 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/trading/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Weeknotes</title>
+      <link>//localhost:1313/tags/weeknotes/</link>
+      <pubDate>Sun, 25 May 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/weeknotes/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Psalm 121</title>
+      <link>//localhost:1313/tags/psalm-121/</link>
+      <pubDate>Sat, 24 May 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/psalm-121/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Spirituality</title>
+      <link>//localhost:1313/tags/spirituality/</link>
+      <pubDate>Sat, 24 May 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/spirituality/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Consciousness</title>
+      <link>//localhost:1313/tags/consciousness/</link>
+      <pubDate>Fri, 23 May 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/consciousness/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Positivity</title>
+      <link>//localhost:1313/tags/positivity/</link>
+      <pubDate>Thu, 22 May 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/positivity/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Best Practices</title>
+      <link>//localhost:1313/tags/best-practices/</link>
+      <pubDate>Wed, 21 May 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/best-practices/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Development</title>
+      <link>//localhost:1313/tags/development/</link>
+      <pubDate>Wed, 21 May 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/development/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Documentation</title>
+      <link>//localhost:1313/tags/documentation/</link>
+      <pubDate>Wed, 21 May 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/documentation/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Europa League</title>
+      <link>//localhost:1313/tags/europa-league/</link>
+      <pubDate>Wed, 21 May 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/europa-league/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Football</title>
+      <link>//localhost:1313/tags/football/</link>
+      <pubDate>Wed, 21 May 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/football/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Manchester United</title>
+      <link>//localhost:1313/tags/manchester-united/</link>
+      <pubDate>Wed, 21 May 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/manchester-united/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Markdown</title>
+      <link>//localhost:1313/tags/markdown/</link>
+      <pubDate>Wed, 21 May 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/markdown/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Nigeria</title>
+      <link>//localhost:1313/tags/nigeria/</link>
+      <pubDate>Wed, 21 May 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/nigeria/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Omnism</title>
+      <link>//localhost:1313/tags/omnism/</link>
+      <pubDate>Wed, 21 May 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/omnism/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Omnisophy</title>
+      <link>//localhost:1313/tags/omnisophy/</link>
+      <pubDate>Wed, 21 May 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/omnisophy/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Philosophy</title>
+      <link>//localhost:1313/tags/philosophy/</link>
+      <pubDate>Wed, 21 May 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/philosophy/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Productivity</title>
+      <link>//localhost:1313/tags/productivity/</link>
+      <pubDate>Wed, 21 May 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/productivity/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Universal Wisdom</title>
+      <link>//localhost:1313/tags/universal-wisdom/</link>
+      <pubDate>Wed, 21 May 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/universal-wisdom/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Wealth</title>
+      <link>//localhost:1313/tags/wealth/</link>
+      <pubDate>Wed, 21 May 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/wealth/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Writing</title>
+      <link>//localhost:1313/tags/writing/</link>
+      <pubDate>Wed, 21 May 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/writing/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Blogging</title>
+      <link>//localhost:1313/tags/blogging/</link>
+      <pubDate>Sun, 04 May 2025 03:44:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/blogging/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Pelican</title>
+      <link>//localhost:1313/tags/pelican/</link>
+      <pubDate>Sun, 04 May 2025 03:44:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/pelican/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Hello</title>
+      <link>//localhost:1313/tags/hello/</link>
+      <pubDate>Fri, 25 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/hello/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>World</title>
+      <link>//localhost:1313/tags/world/</link>
+      <pubDate>Fri, 25 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/world/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>100DaysToOffload</title>
+      <link>//localhost:1313/tags/100daystooffload/</link>
+      <pubDate>Fri, 04 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/100daystooffload/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Linux</title>
+      <link>//localhost:1313/tags/linux/</link>
+      <pubDate>Fri, 04 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/linux/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Ssh</title>
+      <link>//localhost:1313/tags/ssh/</link>
+      <pubDate>Fri, 04 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/ssh/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Movies</title>
+      <link>//localhost:1313/tags/movies/</link>
+      <pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/movies/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Misc</title>
+      <link>//localhost:1313/tags/misc/</link>
+      <pubDate>Thu, 29 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/misc/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Mysteries</title>
+      <link>//localhost:1313/tags/mysteries/</link>
+      <pubDate>Sat, 10 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/mysteries/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>#100DaysToOffload</title>
+      <link>//localhost:1313/tags/%23100daystooffload/</link>
+      <pubDate>Fri, 09 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/%23100daystooffload/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Python</title>
+      <link>//localhost:1313/tags/python/</link>
+      <pubDate>Fri, 09 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/python/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Ethics</title>
+      <link>//localhost:1313/tags/ethics/</link>
+      <pubDate>Fri, 19 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/ethics/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Morality</title>
+      <link>//localhost:1313/tags/morality/</link>
+      <pubDate>Sat, 13 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/morality/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Nietzsche</title>
+      <link>//localhost:1313/tags/nietzsche/</link>
+      <pubDate>Sat, 13 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/nietzsche/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Thelema</title>
+      <link>//localhost:1313/tags/thelema/</link>
+      <pubDate>Sat, 13 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/thelema/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Aging</title>
+      <link>//localhost:1313/tags/aging/</link>
+      <pubDate>Sun, 07 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/aging/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Humor</title>
+      <link>//localhost:1313/tags/humor/</link>
+      <pubDate>Sun, 07 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/humor/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Life Lessons</title>
+      <link>//localhost:1313/tags/life-lessons/</link>
+      <pubDate>Sun, 07 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/life-lessons/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Grounding</title>
+      <link>//localhost:1313/tags/grounding/</link>
+      <pubDate>Thu, 20 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/grounding/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Mysticism</title>
+      <link>//localhost:1313/tags/mysticism/</link>
+      <pubDate>Thu, 20 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/mysticism/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Nature-Spirituality</title>
+      <link>//localhost:1313/tags/nature-spirituality/</link>
+      <pubDate>Thu, 20 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/nature-spirituality/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Rituals</title>
+      <link>//localhost:1313/tags/rituals/</link>
+      <pubDate>Thu, 20 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/rituals/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Duality</title>
+      <link>//localhost:1313/tags/duality/</link>
+      <pubDate>Mon, 17 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/duality/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Theology</title>
+      <link>//localhost:1313/tags/theology/</link>
+      <pubDate>Mon, 17 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/theology/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Compassion</title>
+      <link>//localhost:1313/tags/compassion/</link>
+      <pubDate>Sun, 16 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/compassion/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Human-Nature</title>
+      <link>//localhost:1313/tags/human-nature/</link>
+      <pubDate>Sun, 16 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/human-nature/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Spiritual-Growth</title>
+      <link>//localhost:1313/tags/spiritual-growth/</link>
+      <pubDate>Sun, 16 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/spiritual-growth/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Divine-Guidance</title>
+      <link>//localhost:1313/tags/divine-guidance/</link>
+      <pubDate>Sat, 15 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/divine-guidance/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Intuition</title>
+      <link>//localhost:1313/tags/intuition/</link>
+      <pubDate>Sat, 15 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/intuition/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Self-Knowledge</title>
+      <link>//localhost:1313/tags/self-knowledge/</link>
+      <pubDate>Fri, 14 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/self-knowledge/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>African-Philosophy</title>
+      <link>//localhost:1313/tags/african-philosophy/</link>
+      <pubDate>Thu, 13 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/african-philosophy/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Practical-Living</title>
+      <link>//localhost:1313/tags/practical-living/</link>
+      <pubDate>Thu, 13 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/practical-living/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tradition</title>
+      <link>//localhost:1313/tags/tradition/</link>
+      <pubDate>Thu, 13 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/tradition/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Wisdom</title>
+      <link>//localhost:1313/tags/wisdom/</link>
+      <pubDate>Thu, 13 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/wisdom/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Finance</title>
+      <link>//localhost:1313/tags/finance/</link>
+      <pubDate>Tue, 11 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/finance/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>History</title>
+      <link>//localhost:1313/tags/history/</link>
+      <pubDate>Tue, 11 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/history/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Psychology</title>
+      <link>//localhost:1313/tags/psychology/</link>
+      <pubDate>Tue, 11 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/psychology/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Unusual-Figures</title>
+      <link>//localhost:1313/tags/unusual-figures/</link>
+      <pubDate>Tue, 11 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/unusual-figures/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Digital Detox</title>
+      <link>//localhost:1313/tags/digital-detox/</link>
+      <pubDate>Sun, 18 Mar 2018 12:13:30 +0530</pubDate>
+      <guid>//localhost:1313/tags/digital-detox/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Personal Growth</title>
+      <link>//localhost:1313/tags/personal-growth/</link>
+      <pubDate>Sun, 18 Mar 2018 12:13:30 +0530</pubDate>
+      <guid>//localhost:1313/tags/personal-growth/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Todo</title>
+      <link>//localhost:1313/tags/todo/</link>
+      <pubDate>Sun, 18 Mar 2018 02:01:58 +0530</pubDate>
+      <guid>//localhost:1313/tags/todo/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Finance on Gifted Space</title>
+    <link>//localhost:1313/tags/finance/</link>
+    <description>Recent content in Finance on Gifted Space</description>
+    <generator>Hugo -- 0.147.8</generator>
+    <language>en-us</language>
+    <copyright>Gifted, 2025</copyright>
+    <lastBuildDate>Tue, 11 Jun 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/tags/finance/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hetty Green: The Paradox of America&#39;s Greatest Miser</title>
+      <link>//localhost:1313/posts/post8/</link>
+      <pubDate>Tue, 11 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/post8/</guid>
+      <description>The astonishing life of Hetty Green, the Gilded Age&amp;#39;s most notorious miser who turned frugality into pathology.</description>
+    </item>
+  </channel>
+</rss>

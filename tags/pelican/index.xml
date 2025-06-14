@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Pelican on Gifted Space</title>
+    <link>//localhost:1313/tags/pelican/</link>
+    <description>Recent content in Pelican on Gifted Space</description>
+    <generator>Hugo -- 0.147.8</generator>
+    <language>en-us</language>
+    <copyright>Gifted, 2025</copyright>
+    <lastBuildDate>Sun, 04 May 2025 03:44:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/tags/pelican/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Long Time No Blog: Back with a Bang!</title>
+      <link>//localhost:1313/posts/long-time-no-blog/</link>
+      <pubDate>Sun, 04 May 2025 03:44:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/long-time-no-blog/</guid>
+      <description>Returning after a break with a cleaner blog setup using Pelican, testing the new deployment process.</description>
+    </item>
+    <item>
+      <title>Building My Site/Blog (Parr 1)</title>
+      <link>//localhost:1313/posts/build-site/</link>
+      <pubDate>Fri, 09 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/build-site/</guid>
+      <description>&lt;p&gt;Today, I successfully set up this site/blog.&lt;/p&gt;
+&lt;p&gt;As a Python enthusiast, I used Pelican, a static site generator, to create and deploy this site/blog to GitHub Pages.&lt;/p&gt;
+&lt;p&gt;The process was both fun and informative, and I&amp;rsquo;ll be documenting it here.&lt;/p&gt;
+&lt;p&gt;To get started, you&amp;rsquo;ll need the following:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;A GitHub account.&lt;/li&gt;
+&lt;li&gt;A Linux environment (I used Termux on my phone since I don&amp;rsquo;t have a laptop).&lt;/li&gt;
+&lt;li&gt;Python installed.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Let&amp;rsquo;s begin by creating a repository on GitHub named:&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

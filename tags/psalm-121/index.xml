@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Psalm 121 on Gifted Space</title>
+    <link>//localhost:1313/tags/psalm-121/</link>
+    <description>Recent content in Psalm 121 on Gifted Space</description>
+    <generator>Hugo -- 0.147.8</generator>
+    <language>en-us</language>
+    <copyright>Gifted, 2025</copyright>
+    <lastBuildDate>Sat, 24 May 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/tags/psalm-121/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Guardian Scroll: Psalm 121 Decrypted</title>
+      <link>//localhost:1313/posts/guardian-scroll/</link>
+      <pubDate>Sat, 24 May 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/guardian-scroll/</guid>
+      <description>A mystical decryption of Psalm 121 as a divine protection protocol.</description>
+    </item>
+  </channel>
+</rss>

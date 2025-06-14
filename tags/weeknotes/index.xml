@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Weeknotes on Gifted Space</title>
+    <link>//localhost:1313/tags/weeknotes/</link>
+    <description>Recent content in Weeknotes on Gifted Space</description>
+    <generator>Hugo -- 0.147.8</generator>
+    <language>en-us</language>
+    <copyright>Gifted, 2025</copyright>
+    <lastBuildDate>Sun, 25 May 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/tags/weeknotes/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Weeknote 2025:35</title>
+      <link>//localhost:1313/posts/weeknotes/wn2025-35/</link>
+      <pubDate>Sun, 25 May 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/weeknotes/wn2025-35/</guid>
+      <description>A weekly roundup of inspiring reads, YouTube learning, and movies watched.</description>
+    </item>
+    <item>
+      <title>Weeknote 2024:34</title>
+      <link>//localhost:1313/posts/weeknotes/wn2024-32/</link>
+      <pubDate>Fri, 27 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/weeknotes/wn2024-32/</guid>
+      <description>&lt;h3 id=&#34;cli-tools&#34;&gt;Cli tools&lt;/h3&gt;
+&lt;p&gt;fzf - A command-line fuzzy finder&lt;/p&gt;
+&lt;h3 id=&#34;articles-i-read&#34;&gt;Articles I read&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&#34;https://zacs.site/blog/laziness-is-the-root-of-all-evil.html&#34;&gt;Laziness is the Root of All Evil&lt;/a&gt; by Zac Szewczyk&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://nesslabs.com/apophenia&#34;&gt;The dangers of apophenia: not everything happens for a reason&lt;/a&gt; by Dr. Hannah Rose&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://psychcentral.com/health/apophenia-overview#synchronicity&#34;&gt;Apophenia vs. synchronicity&lt;/a&gt; (an excerpt) by Cathy Lovering&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Peace, Love, Balance.&lt;/strong&gt;&lt;br&gt;
+☮️ 💚 ☯️&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Weeknote 2024:33</title>
+      <link>//localhost:1313/posts/weeknotes/wn2024-33/</link>
+      <pubDate>Sun, 18 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/weeknotes/wn2024-33/</guid>
+      <description>&lt;p&gt;I recently explored dotfiles and learned how to set them up with version control using Git. I applied this to my bash files (e.g., &lt;code&gt;.bashrc&lt;/code&gt;, &lt;code&gt;.bash_aliases&lt;/code&gt;) and configured my dotfiles so that I can easily use them on any system. This is achieved by pulling from my Git repository and symlinking the dotfiles to their original locations on the system.&lt;/p&gt;
+&lt;p&gt;I also discovered that this approach can be extended to configuration files—the dotfiles for packages installed on Linux. This means that whenever I install a package, I can add its dotfile to my dotfile directory.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Weeknote 2024:32</title>
+      <link>//localhost:1313/posts/weeknotes/wn2024-34/</link>
+      <pubDate>Sun, 11 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/weeknotes/wn2024-34/</guid>
+      <description>&lt;p&gt;This week marks the beginning of my Weeknote series. I&amp;rsquo;m excited to share that I successfully published this blog on GitHub Pages! Overall, it was a fun week. While there isn&amp;rsquo;t much to say in this inaugural note, I did enjoy reading some articles and watching a few new movies.&lt;/p&gt;
+&lt;p&gt;In addition to these activities, I also managed to do some accounting for both my personal and business finances. I plan to dive deeper into these topics in future posts.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
