@@ -2,46 +2,46 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Philosophy on Gifted Space</title>
-    <link>//localhost:1313/tags/philosophy/</link>
+    <link>https://netzro.github.io/giftedspace/tags/philosophy/</link>
     <description>Recent content in Philosophy on Gifted Space</description>
     <generator>Hugo -- 0.147.8</generator>
     <language>en-us</language>
     <copyright>Gifted, 2025</copyright>
     <lastBuildDate>Wed, 21 May 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="//localhost:1313/tags/philosophy/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://netzro.github.io/giftedspace/tags/philosophy/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>OMNISOPHY: The Highest Philosophy of Spirituality</title>
-      <link>//localhost:1313/posts/omnisophy/</link>
+      <link>https://netzro.github.io/giftedspace/posts/omnisophy/</link>
       <pubDate>Wed, 21 May 2025 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/posts/omnisophy/</guid>
+      <guid>https://netzro.github.io/giftedspace/posts/omnisophy/</guid>
       <description>Omnisophy is the exploration of all spiritual knowledge for self-maturity and evolution, recognizing the unity of all wisdom traditions.</description>
     </item>
     <item>
       <title>Turning Vices into Virtues: Aristotle&#39;s Golden Mean</title>
-      <link>//localhost:1313/posts/post12/</link>
+      <link>https://netzro.github.io/giftedspace/posts/post12/</link>
       <pubDate>Fri, 19 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/posts/post12/</guid>
+      <guid>https://netzro.github.io/giftedspace/posts/post12/</guid>
       <description>Exploring Aristotle&amp;#39;s concept of the Golden Mean and how to transform vices into virtues through balanced moderation.</description>
     </item>
     <item>
       <title>Master and Slave Morality: Crowley&#39;s Nietzschean Influence</title>
-      <link>//localhost:1313/posts/post11/</link>
+      <link>https://netzro.github.io/giftedspace/posts/post11/</link>
       <pubDate>Sat, 13 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/posts/post11/</guid>
+      <guid>https://netzro.github.io/giftedspace/posts/post11/</guid>
       <description>Examining Aleister Crowley&amp;#39;s appropriation of Nietzsche&amp;#39;s master-slave morality dichotomy within Thelemic philosophy.</description>
     </item>
     <item>
       <title>The Divine Duality: Understanding the Sacred Balance of Good and Evil</title>
-      <link>//localhost:1313/posts/post7/</link>
+      <link>https://netzro.github.io/giftedspace/posts/post7/</link>
       <pubDate>Mon, 17 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/posts/post7/</guid>
+      <guid>https://netzro.github.io/giftedspace/posts/post7/</guid>
       <description>Examining the sacred complementarity of opposing forces in divine cosmology and their role in spiritual evolution.</description>
     </item>
     <item>
       <title>The Noble Knowledge of Self: Jacob Boehme&#39;s Path to Fulfillment</title>
-      <link>//localhost:1313/posts/post2/</link>
+      <link>https://netzro.github.io/giftedspace/posts/post2/</link>
       <pubDate>Fri, 14 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/posts/post2/</guid>
+      <guid>https://netzro.github.io/giftedspace/posts/post2/</guid>
       <description>Exploring Jacob Boehme&amp;#39;s timeless insight that true fulfillment comes from profound self-knowledge rather than external possessions.</description>
     </item>
   </channel>

@@ -2,25 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Mindfulness on Gifted Space</title>
-    <link>//localhost:1313/tags/mindfulness/</link>
+    <link>https://netzro.github.io/giftedspace/tags/mindfulness/</link>
     <description>Recent content in Mindfulness on Gifted Space</description>
     <generator>Hugo -- 0.147.8</generator>
     <language>en-us</language>
     <copyright>Gifted, 2025</copyright>
     <lastBuildDate>Mon, 02 Jun 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="//localhost:1313/tags/mindfulness/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://netzro.github.io/giftedspace/tags/mindfulness/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Normalize Silence: Finding Greatness in Stillness</title>
-      <link>//localhost:1313/posts/normalize-silence/</link>
+      <link>https://netzro.github.io/giftedspace/posts/normalize-silence/</link>
       <pubDate>Mon, 02 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/posts/normalize-silence/</guid>
+      <guid>https://netzro.github.io/giftedspace/posts/normalize-silence/</guid>
       <description>Embracing silence to build resilience, clarity, and greatness in a distracted world.</description>
     </item>
     <item>
       <title>Fearlessness: How to Stop Running from Space</title>
-      <link>//localhost:1313/posts/post-2/</link>
+      <link>https://netzro.github.io/giftedspace/posts/post-2/</link>
       <pubDate>Sun, 18 Mar 2018 12:13:30 +0530</pubDate>
-      <guid>//localhost:1313/posts/post-2/</guid>
+      <guid>https://netzro.github.io/giftedspace/posts/post-2/</guid>
       <description>Exploring our fear of empty space and how embracing stillness leads to freedom and presence.</description>
     </item>
   </channel>

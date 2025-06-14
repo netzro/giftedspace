@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Rituals on Gifted Space</title>
-    <link>//localhost:1313/tags/rituals/</link>
+    <link>https://netzro.github.io/giftedspace/tags/rituals/</link>
     <description>Recent content in Rituals on Gifted Space</description>
     <generator>Hugo -- 0.147.8</generator>
     <language>en-us</language>
     <copyright>Gifted, 2025</copyright>
     <lastBuildDate>Thu, 20 Jun 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="//localhost:1313/tags/rituals/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://netzro.github.io/giftedspace/tags/rituals/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Sacred Steps: The Mystical Practice of Walking Barefoot on Dewy Grass</title>
-      <link>//localhost:1313/posts/post9/</link>
+      <link>https://netzro.github.io/giftedspace/posts/post9/</link>
       <pubDate>Thu, 20 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/posts/post9/</guid>
+      <guid>https://netzro.github.io/giftedspace/posts/post9/</guid>
       <description>Discover why mystics throughout history have treasured the sacred practice of barefoot dawn walks on dew-kissed grass.</description>
     </item>
   </channel>

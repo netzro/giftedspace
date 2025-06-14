@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>100DaysToOffload on Gifted Space</title>
-    <link>//localhost:1313/tags/100daystooffload/</link>
+    <link>https://netzro.github.io/giftedspace/tags/100daystooffload/</link>
     <description>Recent content in 100DaysToOffload on Gifted Space</description>
     <generator>Hugo -- 0.147.8</generator>
     <language>en-us</language>
     <copyright>Gifted, 2025</copyright>
     <lastBuildDate>Fri, 04 Oct 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="//localhost:1313/tags/100daystooffload/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://netzro.github.io/giftedspace/tags/100daystooffload/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Setting Up SSH Keys for a VPS</title>
-      <link>//localhost:1313/posts/ssh-setup/</link>
+      <link>https://netzro.github.io/giftedspace/posts/ssh-setup/</link>
       <pubDate>Fri, 04 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/posts/ssh-setup/</guid>
+      <guid>https://netzro.github.io/giftedspace/posts/ssh-setup/</guid>
       <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
 &lt;p&gt;Using SSH keys to access your Virtual Private Server (VPS) is one of the most secure methods of authentication. SSH keys provide a stronger layer of security compared to password logins by utilizing a cryptographic key pair. This guide will walk you through generating SSH keys, copying them to your server, and disabling password logins to enhance security.&lt;/p&gt;
 &lt;h2 id=&#34;step-1-generate-ssh-keys&#34;&gt;Step 1: Generate SSH Keys&lt;/h2&gt;
@@ -21,23 +21,23 @@
     </item>
     <item>
       <title>Marvel Cinematic Universe - Phase 1</title>
-      <link>//localhost:1313/posts/mcu-1/</link>
+      <link>https://netzro.github.io/giftedspace/posts/mcu-1/</link>
       <pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/posts/mcu-1/</guid>
+      <guid>https://netzro.github.io/giftedspace/posts/mcu-1/</guid>
       <description>Reflections on watching Phase 1 of the Marvel Cinematic Universe films in release order.</description>
     </item>
     <item>
       <title>NTS:24-08</title>
-      <link>//localhost:1313/posts/note-to-self/nts8/</link>
+      <link>https://netzro.github.io/giftedspace/posts/note-to-self/nts8/</link>
       <pubDate>Sat, 28 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/posts/note-to-self/nts8/</guid>
+      <guid>https://netzro.github.io/giftedspace/posts/note-to-self/nts8/</guid>
       <description>A reflection on prioritizing humanity, beauty, and unity over material vanities to unveil the divinity in humanity.</description>
     </item>
     <item>
       <title>Weeknote 2024:34</title>
-      <link>//localhost:1313/posts/weeknotes/wn2024-32/</link>
+      <link>https://netzro.github.io/giftedspace/posts/weeknotes/wn2024-32/</link>
       <pubDate>Fri, 27 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/posts/weeknotes/wn2024-32/</guid>
+      <guid>https://netzro.github.io/giftedspace/posts/weeknotes/wn2024-32/</guid>
       <description>&lt;h3 id=&#34;cli-tools&#34;&gt;Cli tools&lt;/h3&gt;
 &lt;p&gt;fzf - A command-line fuzzy finder&lt;/p&gt;
 &lt;h3 id=&#34;articles-i-read&#34;&gt;Articles I read&lt;/h3&gt;
@@ -49,23 +49,23 @@
     </item>
     <item>
       <title>NTS:24-07</title>
-      <link>//localhost:1313/posts/note-to-self/nts6/</link>
+      <link>https://netzro.github.io/giftedspace/posts/note-to-self/nts6/</link>
       <pubDate>Sat, 21 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/posts/note-to-self/nts6/</guid>
+      <guid>https://netzro.github.io/giftedspace/posts/note-to-self/nts6/</guid>
       <description>A reflection on the pitfalls of seeking external validation.</description>
     </item>
     <item>
       <title>Watching Marvel Movies in Order</title>
-      <link>//localhost:1313/posts/mcu-movies/</link>
+      <link>https://netzro.github.io/giftedspace/posts/mcu-movies/</link>
       <pubDate>Thu, 19 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/posts/mcu-movies/</guid>
+      <guid>https://netzro.github.io/giftedspace/posts/mcu-movies/</guid>
       <description>A plan to watch Marvel Cinematic Universe (MCU) movies in release order, with a complete list of films by phase.</description>
     </item>
     <item>
       <title>My Rubik&#39;s Cube (Part 1)</title>
-      <link>//localhost:1313/posts/rc1/</link>
+      <link>https://netzro.github.io/giftedspace/posts/rc1/</link>
       <pubDate>Thu, 29 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/posts/rc1/</guid>
+      <guid>https://netzro.github.io/giftedspace/posts/rc1/</guid>
       <description>&lt;h2 id=&#34;the-cube&#34;&gt;The Cube&lt;/h2&gt;
 &lt;p&gt;Recently, I decided to buy myself a Rubik&amp;rsquo;s Cube and see how easy or hard solving it would be. In this series of mini-posts, I’ll share my experience and the steps I followed to solve the cube.&lt;/p&gt;
 &lt;h2 id=&#34;the-challenge&#34;&gt;The Challenge&lt;/h2&gt;
@@ -73,88 +73,88 @@
     </item>
     <item>
       <title>NTS:24-06</title>
-      <link>//localhost:1313/posts/note-to-self/nts06/</link>
+      <link>https://netzro.github.io/giftedspace/posts/note-to-self/nts06/</link>
       <pubDate>Thu, 22 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/posts/note-to-self/nts06/</guid>
+      <guid>https://netzro.github.io/giftedspace/posts/note-to-self/nts06/</guid>
       <description>A reflection on individual paths to growth, inspired by a Dostoevsky quote.</description>
     </item>
     <item>
       <title>NTS:24-05</title>
-      <link>//localhost:1313/posts/note-to-self/nts5/</link>
+      <link>https://netzro.github.io/giftedspace/posts/note-to-self/nts5/</link>
       <pubDate>Tue, 20 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/posts/note-to-self/nts5/</guid>
+      <guid>https://netzro.github.io/giftedspace/posts/note-to-self/nts5/</guid>
       <description>A reflective allegory about peace, faith, love, and hope, inspired by four candles.</description>
     </item>
     <item>
       <title>NTS:24-04</title>
-      <link>//localhost:1313/posts/note-to-self/nts4/</link>
+      <link>https://netzro.github.io/giftedspace/posts/note-to-self/nts4/</link>
       <pubDate>Sun, 18 Aug 2024 10:12:00 +0000</pubDate>
-      <guid>//localhost:1313/posts/note-to-self/nts4/</guid>
+      <guid>https://netzro.github.io/giftedspace/posts/note-to-self/nts4/</guid>
       <description>Reflecting on Ralph Waldo Emerson&amp;#39;s call to curate a personal collection of inspiring words and ideas.</description>
     </item>
     <item>
       <title>Weeknote 2024:33</title>
-      <link>//localhost:1313/posts/weeknotes/wn2024-33/</link>
+      <link>https://netzro.github.io/giftedspace/posts/weeknotes/wn2024-33/</link>
       <pubDate>Sun, 18 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/posts/weeknotes/wn2024-33/</guid>
+      <guid>https://netzro.github.io/giftedspace/posts/weeknotes/wn2024-33/</guid>
       <description>&lt;p&gt;I recently explored dotfiles and learned how to set them up with version control using Git. I applied this to my bash files (e.g., &lt;code&gt;.bashrc&lt;/code&gt;, &lt;code&gt;.bash_aliases&lt;/code&gt;) and configured my dotfiles so that I can easily use them on any system. This is achieved by pulling from my Git repository and symlinking the dotfiles to their original locations on the system.&lt;/p&gt;
 &lt;p&gt;I also discovered that this approach can be extended to configuration files—the dotfiles for packages installed on Linux. This means that whenever I install a package, I can add its dotfile to my dotfile directory.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Setting Up Pass as My Password Manager</title>
-      <link>//localhost:1313/posts/pass1/</link>
+      <link>https://netzro.github.io/giftedspace/posts/pass1/</link>
       <pubDate>Thu, 15 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/posts/pass1/</guid>
+      <guid>https://netzro.github.io/giftedspace/posts/pass1/</guid>
       <description>A guide to setting up Pass, a lightweight Unix password manager, on a Linux environment (Termux) and syncing with GitHub.</description>
     </item>
     <item>
       <title>NTS:24-03</title>
-      <link>//localhost:1313/posts/note-to-self/nts3/</link>
+      <link>https://netzro.github.io/giftedspace/posts/note-to-self/nts3/</link>
       <pubDate>Sun, 11 Aug 2024 07:23:00 +0000</pubDate>
-      <guid>//localhost:1313/posts/note-to-self/nts3/</guid>
+      <guid>https://netzro.github.io/giftedspace/posts/note-to-self/nts3/</guid>
       <description>A reflection on the sacredness of Nature, emphasizing interconnectedness, reverence, and gratitude.</description>
     </item>
     <item>
       <title>Weeknote 2024:32</title>
-      <link>//localhost:1313/posts/weeknotes/wn2024-34/</link>
+      <link>https://netzro.github.io/giftedspace/posts/weeknotes/wn2024-34/</link>
       <pubDate>Sun, 11 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/posts/weeknotes/wn2024-34/</guid>
+      <guid>https://netzro.github.io/giftedspace/posts/weeknotes/wn2024-34/</guid>
       <description>&lt;p&gt;This week marks the beginning of my Weeknote series. I&amp;rsquo;m excited to share that I successfully published this blog on GitHub Pages! Overall, it was a fun week. While there isn&amp;rsquo;t much to say in this inaugural note, I did enjoy reading some articles and watching a few new movies.&lt;/p&gt;
 &lt;p&gt;In addition to these activities, I also managed to do some accounting for both my personal and business finances. I plan to dive deeper into these topics in future posts.&lt;/p&gt;</description>
     </item>
     <item>
       <title>My First Post for #100DaysToOffload</title>
-      <link>//localhost:1313/posts/100daustooffload/</link>
+      <link>https://netzro.github.io/giftedspace/posts/100daustooffload/</link>
       <pubDate>Sat, 10 Aug 2024 20:45:00 +0000</pubDate>
-      <guid>//localhost:1313/posts/100daustooffload/</guid>
+      <guid>https://netzro.github.io/giftedspace/posts/100daustooffload/</guid>
       <description>Kicking off my commitment to the #100DaysToOffload challenge, documenting my journey and progress.</description>
     </item>
     <item>
       <title>Content Delivery</title>
-      <link>//localhost:1313/posts/content-delivery/</link>
+      <link>https://netzro.github.io/giftedspace/posts/content-delivery/</link>
       <pubDate>Sat, 10 Aug 2024 19:59:00 +0000</pubDate>
-      <guid>//localhost:1313/posts/content-delivery/</guid>
+      <guid>https://netzro.github.io/giftedspace/posts/content-delivery/</guid>
       <description>Introducing my Weeknotes and Note to Self (NTS) series for the #100DaysToOffload challenge.</description>
     </item>
     <item>
       <title>NTS:24-02</title>
-      <link>//localhost:1313/posts/note-to-self/nts2/</link>
+      <link>https://netzro.github.io/giftedspace/posts/note-to-self/nts2/</link>
       <pubDate>Sat, 10 Aug 2024 07:50:00 +0000</pubDate>
-      <guid>//localhost:1313/posts/note-to-self/nts2/</guid>
+      <guid>https://netzro.github.io/giftedspace/posts/note-to-self/nts2/</guid>
       <description>A reflection on detachment as maintaining emotional balance without indifference.</description>
     </item>
     <item>
       <title>nts:24-01</title>
-      <link>//localhost:1313/posts/note-to-self/note-to-self/</link>
+      <link>https://netzro.github.io/giftedspace/posts/note-to-self/note-to-self/</link>
       <pubDate>Fri, 09 Aug 2024 06:55:00 +0000</pubDate>
-      <guid>//localhost:1313/posts/note-to-self/note-to-self/</guid>
+      <guid>https://netzro.github.io/giftedspace/posts/note-to-self/note-to-self/</guid>
       <description>A reflective Note to Self (NTS) on prioritizing things money can&amp;#39;t buy.</description>
     </item>
     <item>
       <title>Primer: When You Have Too Much to Do</title>
-      <link>//localhost:1313/posts/post-1/</link>
+      <link>https://netzro.github.io/giftedspace/posts/post-1/</link>
       <pubDate>Sun, 18 Mar 2018 02:01:58 +0530</pubDate>
-      <guid>//localhost:1313/posts/post-1/</guid>
+      <guid>https://netzro.github.io/giftedspace/posts/post-1/</guid>
       <description>Strategies for managing an overwhelming to-do list with focus, triage, and mindful simplicity.</description>
     </item>
   </channel>
