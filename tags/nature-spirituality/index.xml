@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Nature-Spirituality on Gifted Space</title>
-    <link>https://netzro.github.io/giftedspace/tags/nature-spirituality/</link>
+    <link>//localhost:1313/tags/nature-spirituality/</link>
     <description>Recent content in Nature-Spirituality on Gifted Space</description>
     <generator>Hugo -- 0.147.8</generator>
     <language>en-us</language>
     <copyright>Gifted, 2025</copyright>
     <lastBuildDate>Thu, 20 Jun 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://netzro.github.io/giftedspace/tags/nature-spirituality/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:1313/tags/nature-spirituality/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Sacred Steps: The Mystical Practice of Walking Barefoot on Dewy Grass</title>
-      <link>https://netzro.github.io/giftedspace/posts/post9/</link>
+      <link>//localhost:1313/posts/post9/</link>
       <pubDate>Thu, 20 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>https://netzro.github.io/giftedspace/posts/post9/</guid>
+      <guid>//localhost:1313/posts/post9/</guid>
       <description>Discover why mystics throughout history have treasured the sacred practice of barefoot dawn walks on dew-kissed grass.</description>
     </item>
   </channel>

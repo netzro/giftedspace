@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Writing on Gifted Space</title>
-    <link>https://netzro.github.io/giftedspace/tags/writing/</link>
+    <link>//localhost:1313/tags/writing/</link>
     <description>Recent content in Writing on Gifted Space</description>
     <generator>Hugo -- 0.147.8</generator>
     <language>en-us</language>
     <copyright>Gifted, 2025</copyright>
     <lastBuildDate>Wed, 21 May 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://netzro.github.io/giftedspace/tags/writing/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:1313/tags/writing/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Why Markdown is the Best Way to Write for the Web</title>
-      <link>https://netzro.github.io/giftedspace/posts/markdown-syntax/</link>
+      <link>//localhost:1313/posts/markdown-syntax/</link>
       <pubDate>Wed, 21 May 2025 00:00:00 +0000</pubDate>
-      <guid>https://netzro.github.io/giftedspace/posts/markdown-syntax/</guid>
+      <guid>//localhost:1313/posts/markdown-syntax/</guid>
       <description>Markdown simplifies writing for the web—here&amp;#39;s why every developer and writer should use it.</description>
     </item>
   </channel>

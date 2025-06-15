@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Blogging on Gifted Space</title>
-    <link>https://netzro.github.io/giftedspace/tags/blogging/</link>
+    <link>//localhost:1313/tags/blogging/</link>
     <description>Recent content in Blogging on Gifted Space</description>
     <generator>Hugo -- 0.147.8</generator>
     <language>en-us</language>
     <copyright>Gifted, 2025</copyright>
     <lastBuildDate>Sun, 04 May 2025 03:44:00 +0000</lastBuildDate>
-    <atom:link href="https://netzro.github.io/giftedspace/tags/blogging/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:1313/tags/blogging/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Long Time No Blog: Back with a Bang!</title>
-      <link>https://netzro.github.io/giftedspace/posts/long-time-no-blog/</link>
+      <link>//localhost:1313/posts/long-time-no-blog/</link>
       <pubDate>Sun, 04 May 2025 03:44:00 +0000</pubDate>
-      <guid>https://netzro.github.io/giftedspace/posts/long-time-no-blog/</guid>
+      <guid>//localhost:1313/posts/long-time-no-blog/</guid>
       <description>Returning after a break with a cleaner blog setup using Pelican, testing the new deployment process.</description>
     </item>
   </channel>

@@ -2,62 +2,62 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Spirituality on Gifted Space</title>
-    <link>https://netzro.github.io/giftedspace/tags/spirituality/</link>
+    <link>//localhost:1313/tags/spirituality/</link>
     <description>Recent content in Spirituality on Gifted Space</description>
     <generator>Hugo -- 0.147.8</generator>
     <language>en-us</language>
     <copyright>Gifted, 2025</copyright>
     <lastBuildDate>Sat, 24 May 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://netzro.github.io/giftedspace/tags/spirituality/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:1313/tags/spirituality/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The Guardian Scroll: Psalm 121 Decrypted</title>
-      <link>https://netzro.github.io/giftedspace/posts/guardian-scroll/</link>
+      <link>//localhost:1313/posts/guardian-scroll/</link>
       <pubDate>Sat, 24 May 2025 00:00:00 +0000</pubDate>
-      <guid>https://netzro.github.io/giftedspace/posts/guardian-scroll/</guid>
+      <guid>//localhost:1313/posts/guardian-scroll/</guid>
       <description>A mystical decryption of Psalm 121 as a divine protection protocol.</description>
     </item>
     <item>
       <title>nts:25-01</title>
-      <link>https://netzro.github.io/giftedspace/posts/note-to-self/note-to-self-2/</link>
+      <link>//localhost:1313/posts/note-to-self/note-to-self-2/</link>
       <pubDate>Wed, 21 May 2025 00:00:00 +0000</pubDate>
-      <guid>https://netzro.github.io/giftedspace/posts/note-to-self/note-to-self-2/</guid>
+      <guid>//localhost:1313/posts/note-to-self/note-to-self-2/</guid>
       <description>&lt;h3 id=&#34;note-to-self&#34;&gt;Note to Self&lt;/h3&gt;
 &lt;p&gt;The real message of Christ was not about belonging to a religion. It was about awakening to the divine light within you, and seeing that same light in all beings.&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;—M. Perlin&lt;/em&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>OMNISOPHY: The Highest Philosophy of Spirituality</title>
-      <link>https://netzro.github.io/giftedspace/posts/omnisophy/</link>
+      <link>//localhost:1313/posts/omnisophy/</link>
       <pubDate>Wed, 21 May 2025 00:00:00 +0000</pubDate>
-      <guid>https://netzro.github.io/giftedspace/posts/omnisophy/</guid>
+      <guid>//localhost:1313/posts/omnisophy/</guid>
       <description>Omnisophy is the exploration of all spiritual knowledge for self-maturity and evolution, recognizing the unity of all wisdom traditions.</description>
     </item>
     <item>
       <title>The Divine Duality: Understanding the Sacred Balance of Good and Evil</title>
-      <link>https://netzro.github.io/giftedspace/posts/post7/</link>
+      <link>//localhost:1313/posts/post7/</link>
       <pubDate>Mon, 17 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>https://netzro.github.io/giftedspace/posts/post7/</guid>
+      <guid>//localhost:1313/posts/post7/</guid>
       <description>Examining the sacred complementarity of opposing forces in divine cosmology and their role in spiritual evolution.</description>
     </item>
     <item>
       <title>Forms of Revelation: Navigating Divine Communication</title>
-      <link>https://netzro.github.io/giftedspace/posts/post4/</link>
+      <link>//localhost:1313/posts/post4/</link>
       <pubDate>Sat, 15 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>https://netzro.github.io/giftedspace/posts/post4/</guid>
+      <guid>//localhost:1313/posts/post4/</guid>
       <description>Understanding the varied forms of divine revelation and how to discern their truth through heightened consciousness.</description>
     </item>
     <item>
       <title>Forms of Revelation: Navigating Divine Communication</title>
-      <link>https://netzro.github.io/giftedspace/posts/post5/</link>
+      <link>//localhost:1313/posts/post5/</link>
       <pubDate>Sat, 15 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>https://netzro.github.io/giftedspace/posts/post5/</guid>
+      <guid>//localhost:1313/posts/post5/</guid>
       <description>Understanding the varied forms of divine revelation and how to discern their truth through heightened consciousness.</description>
     </item>
     <item>
       <title>The Noble Knowledge of Self: Jacob Boehme&#39;s Path to Fulfillment</title>
-      <link>https://netzro.github.io/giftedspace/posts/post2/</link>
+      <link>//localhost:1313/posts/post2/</link>
       <pubDate>Fri, 14 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>https://netzro.github.io/giftedspace/posts/post2/</guid>
+      <guid>//localhost:1313/posts/post2/</guid>
       <description>Exploring Jacob Boehme&amp;#39;s timeless insight that true fulfillment comes from profound self-knowledge rather than external possessions.</description>
     </item>
   </channel>

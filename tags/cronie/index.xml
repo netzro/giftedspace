@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Cronie on Gifted Space</title>
-    <link>https://netzro.github.io/giftedspace/tags/cronie/</link>
+    <link>//localhost:1313/tags/cronie/</link>
     <description>Recent content in Cronie on Gifted Space</description>
     <generator>Hugo -- 0.147.8</generator>
     <language>en-us</language>
     <copyright>Gifted, 2025</copyright>
     <lastBuildDate>Sun, 08 Jun 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://netzro.github.io/giftedspace/tags/cronie/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:1313/tags/cronie/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Setting Up Cronie and Scheduling Scripts in Termux</title>
-      <link>https://netzro.github.io/giftedspace/posts/cronjob/</link>
+      <link>//localhost:1313/posts/cronjob/</link>
       <pubDate>Sun, 08 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>https://netzro.github.io/giftedspace/posts/cronjob/</guid>
+      <guid>//localhost:1313/posts/cronjob/</guid>
       <description>A step-by-step guide to installing cronie in Termux and scheduling scripts to run at specific times on Android.</description>
     </item>
   </channel>

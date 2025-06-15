@@ -1,11 +1,89 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on Gifted Space</title>
+    <title>Categories on </title>
     <link>//localhost:1313/categories/</link>
-    <description>Recent content in Categories on Gifted Space</description>
-    <generator>Hugo -- 0.147.3</generator>
-    <language>en-us</language>
+    <description>Recent content in Categories on </description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 19 Jul 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="//localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Philosophy</title>
+      <link>//localhost:1313/categories/philosophy/</link>
+      <pubDate>Fri, 19 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/categories/philosophy/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Philosophical Analysis</title>
+      <link>//localhost:1313/categories/philosophical-analysis/</link>
+      <pubDate>Sat, 13 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/categories/philosophical-analysis/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Reflections</title>
+      <link>//localhost:1313/categories/reflections/</link>
+      <pubDate>Sun, 07 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/categories/reflections/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Spiritual Practices</title>
+      <link>//localhost:1313/categories/spiritual-practices/</link>
+      <pubDate>Thu, 20 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/categories/spiritual-practices/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Cosmic Wisdom</title>
+      <link>//localhost:1313/categories/cosmic-wisdom/</link>
+      <pubDate>Mon, 17 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/categories/cosmic-wisdom/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Life Lessons</title>
+      <link>//localhost:1313/categories/life-lessons/</link>
+      <pubDate>Sun, 16 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/categories/life-lessons/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Spiritual Wisdom</title>
+      <link>//localhost:1313/categories/spiritual-wisdom/</link>
+      <pubDate>Sat, 15 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/categories/spiritual-wisdom/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Wisdom</title>
+      <link>//localhost:1313/categories/wisdom/</link>
+      <pubDate>Fri, 14 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/categories/wisdom/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Cultural Heritage</title>
+      <link>//localhost:1313/categories/cultural-heritage/</link>
+      <pubDate>Thu, 13 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/categories/cultural-heritage/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Historical Profiles</title>
+      <link>//localhost:1313/categories/historical-profiles/</link>
+      <pubDate>Tue, 11 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/categories/historical-profiles/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Mindfulness</title>
+      <link>//localhost:1313/categories/mindfulness/</link>
+      <pubDate>Sun, 18 Mar 2018 12:13:30 +0530</pubDate>
+      <guid>//localhost:1313/categories/mindfulness/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>

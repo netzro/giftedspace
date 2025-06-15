@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Psychology on Gifted Space</title>
-    <link>https://netzro.github.io/giftedspace/tags/psychology/</link>
+    <link>//localhost:1313/tags/psychology/</link>
     <description>Recent content in Psychology on Gifted Space</description>
     <generator>Hugo -- 0.147.8</generator>
     <language>en-us</language>
     <copyright>Gifted, 2025</copyright>
     <lastBuildDate>Tue, 11 Jun 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://netzro.github.io/giftedspace/tags/psychology/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:1313/tags/psychology/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hetty Green: The Paradox of America&#39;s Greatest Miser</title>
-      <link>https://netzro.github.io/giftedspace/posts/post8/</link>
+      <link>//localhost:1313/posts/post8/</link>
       <pubDate>Tue, 11 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>https://netzro.github.io/giftedspace/posts/post8/</guid>
+      <guid>//localhost:1313/posts/post8/</guid>
       <description>The astonishing life of Hetty Green, the Gilded Age&amp;#39;s most notorious miser who turned frugality into pathology.</description>
     </item>
   </channel>

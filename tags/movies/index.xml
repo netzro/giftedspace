@@ -2,25 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Movies on Gifted Space</title>
-    <link>https://netzro.github.io/giftedspace/tags/movies/</link>
+    <link>//localhost:1313/tags/movies/</link>
     <description>Recent content in Movies on Gifted Space</description>
     <generator>Hugo -- 0.147.8</generator>
     <language>en-us</language>
     <copyright>Gifted, 2025</copyright>
     <lastBuildDate>Tue, 01 Oct 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://netzro.github.io/giftedspace/tags/movies/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:1313/tags/movies/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Marvel Cinematic Universe - Phase 1</title>
-      <link>https://netzro.github.io/giftedspace/posts/mcu-1/</link>
+      <link>//localhost:1313/posts/mcu-1/</link>
       <pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>https://netzro.github.io/giftedspace/posts/mcu-1/</guid>
+      <guid>//localhost:1313/posts/mcu-1/</guid>
       <description>Reflections on watching Phase 1 of the Marvel Cinematic Universe films in release order.</description>
     </item>
     <item>
       <title>Watching Marvel Movies in Order</title>
-      <link>https://netzro.github.io/giftedspace/posts/mcu-movies/</link>
+      <link>//localhost:1313/posts/mcu-movies/</link>
       <pubDate>Thu, 19 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>https://netzro.github.io/giftedspace/posts/mcu-movies/</guid>
+      <guid>//localhost:1313/posts/mcu-movies/</guid>
       <description>A plan to watch Marvel Cinematic Universe (MCU) movies in release order, with a complete list of films by phase.</description>
     </item>
   </channel>

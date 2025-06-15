@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Ssh on Gifted Space</title>
-    <link>https://netzro.github.io/giftedspace/tags/ssh/</link>
+    <link>//localhost:1313/tags/ssh/</link>
     <description>Recent content in Ssh on Gifted Space</description>
     <generator>Hugo -- 0.147.8</generator>
     <language>en-us</language>
     <copyright>Gifted, 2025</copyright>
     <lastBuildDate>Fri, 04 Oct 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://netzro.github.io/giftedspace/tags/ssh/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:1313/tags/ssh/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Setting Up SSH Keys for a VPS</title>
-      <link>https://netzro.github.io/giftedspace/posts/ssh-setup/</link>
+      <link>//localhost:1313/posts/ssh-setup/</link>
       <pubDate>Fri, 04 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>https://netzro.github.io/giftedspace/posts/ssh-setup/</guid>
+      <guid>//localhost:1313/posts/ssh-setup/</guid>
       <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
 &lt;p&gt;Using SSH keys to access your Virtual Private Server (VPS) is one of the most secure methods of authentication. SSH keys provide a stronger layer of security compared to password logins by utilizing a cryptographic key pair. This guide will walk you through generating SSH keys, copying them to your server, and disabling password logins to enhance security.&lt;/p&gt;
 &lt;h2 id=&#34;step-1-generate-ssh-keys&#34;&gt;Step 1: Generate SSH Keys&lt;/h2&gt;

@@ -2,418 +2,421 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://netzro.github.io/giftedspace/tags/cronie/</loc>
+    <loc>//localhost:1313/</loc>
+    <lastmod>2025-06-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/posts/</loc>
+    <lastmod>2025-06-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/tags/reflection/</loc>
+    <lastmod>2025-06-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/tags/</loc>
+    <lastmod>2025-06-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/posts/weeknotes/wn2025-36/</loc>
+    <lastmod>2025-06-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/tags/weeknotes/</loc>
+    <lastmod>2025-06-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/tags/cronie/</loc>
     <lastmod>2025-06-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://netzro.github.io/giftedspace/</loc>
+    <loc>//localhost:1313/posts/cronjob/</loc>
     <lastmod>2025-06-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://netzro.github.io/giftedspace/posts/</loc>
+    <loc>//localhost:1313/tags/termux/</loc>
     <lastmod>2025-06-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://netzro.github.io/giftedspace/posts/cronjob/</loc>
-    <lastmod>2025-06-08T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://netzro.github.io/giftedspace/tags/</loc>
-    <lastmod>2025-06-08T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://netzro.github.io/giftedspace/tags/termux/</loc>
-    <lastmod>2025-06-08T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://netzro.github.io/giftedspace/tags/animation/</loc>
+    <loc>//localhost:1313/tags/animation/</loc>
     <lastmod>2025-06-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://netzro.github.io/giftedspace/posts/love-death-robots/</loc>
+    <loc>//localhost:1313/posts/love-death-robots/</loc>
     <lastmod>2025-06-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://netzro.github.io/giftedspace/tags/sci-fi/</loc>
+    <loc>//localhost:1313/tags/sci-fi/</loc>
     <lastmod>2025-06-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://netzro.github.io/giftedspace/tags/tv-shows/</loc>
+    <loc>//localhost:1313/tags/tv-shows/</loc>
     <lastmod>2025-06-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://netzro.github.io/giftedspace/tags/mindfulness/</loc>
+    <loc>//localhost:1313/tags/mindfulness/</loc>
     <lastmod>2025-06-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://netzro.github.io/giftedspace/posts/normalize-silence/</loc>
+    <loc>//localhost:1313/posts/normalize-silence/</loc>
     <lastmod>2025-06-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://netzro.github.io/giftedspace/tags/nts/</loc>
+    <loc>//localhost:1313/tags/nts/</loc>
     <lastmod>2025-06-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://netzro.github.io/giftedspace/posts/note-to-self/nts-25-06/</loc>
+    <loc>//localhost:1313/posts/note-to-self/nts-25-06/</loc>
     <lastmod>2025-06-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://netzro.github.io/giftedspace/tags/self-improvement/</loc>
+    <loc>//localhost:1313/tags/self-improvement/</loc>
     <lastmod>2025-06-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://netzro.github.io/giftedspace/tags/transformation/</loc>
+    <loc>//localhost:1313/tags/transformation/</loc>
     <lastmod>2025-06-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://netzro.github.io/giftedspace/tags/motivation/</loc>
+    <loc>//localhost:1313/tags/motivation/</loc>
     <lastmod>2025-05-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://netzro.github.io/giftedspace/posts/note-to-self/nts-25-05/</loc>
+    <loc>//localhost:1313/posts/note-to-self/nts-25-05/</loc>
     <lastmod>2025-05-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://netzro.github.io/giftedspace/tags/forex/</loc>
+    <loc>//localhost:1313/tags/forex/</loc>
     <lastmod>2025-05-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://netzro.github.io/giftedspace/posts/forex-notes/</loc>
+    <loc>//localhost:1313/posts/forex-notes/</loc>
     <lastmod>2025-05-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://netzro.github.io/giftedspace/tags/hermeticism/</loc>
+    <loc>//localhost:1313/tags/hermeticism/</loc>
     <lastmod>2025-05-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://netzro.github.io/giftedspace/tags/kybalion/</loc>
+    <loc>//localhost:1313/tags/kybalion/</loc>
     <lastmod>2025-05-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://netzro.github.io/giftedspace/posts/note-to-self/nts-25-04/</loc>
+    <loc>//localhost:1313/posts/note-to-self/nts-25-04/</loc>
     <lastmod>2025-05-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://netzro.github.io/giftedspace/tags/reflection/</loc>
+    <loc>//localhost:1313/posts/kybalion-teachings/</loc>
     <lastmod>2025-05-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://netzro.github.io/giftedspace/posts/kybalion-teachings/</loc>
+    <loc>//localhost:1313/tags/trading/</loc>
     <lastmod>2025-05-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://netzro.github.io/giftedspace/tags/trading/</loc>
+    <loc>//localhost:1313/posts/weeknotes/wn2025-35/</loc>
     <lastmod>2025-05-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://netzro.github.io/giftedspace/posts/weeknotes/wn2025-35/</loc>
-    <lastmod>2025-05-25T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://netzro.github.io/giftedspace/tags/weeknotes/</loc>
-    <lastmod>2025-05-25T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://netzro.github.io/giftedspace/tags/psalm-121/</loc>
+    <loc>//localhost:1313/tags/psalm-121/</loc>
     <lastmod>2025-05-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://netzro.github.io/giftedspace/tags/spirituality/</loc>
+    <loc>//localhost:1313/tags/spirituality/</loc>
     <lastmod>2025-05-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://netzro.github.io/giftedspace/posts/guardian-scroll/</loc>
+    <loc>//localhost:1313/posts/guardian-scroll/</loc>
     <lastmod>2025-05-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://netzro.github.io/giftedspace/posts/all-is-mental/</loc>
+    <loc>//localhost:1313/posts/all-is-mental/</loc>
     <lastmod>2025-05-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://netzro.github.io/giftedspace/tags/consciousness/</loc>
+    <loc>//localhost:1313/tags/consciousness/</loc>
     <lastmod>2025-05-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://netzro.github.io/giftedspace/posts/note-to-self/nts-25-03/</loc>
+    <loc>//localhost:1313/posts/note-to-self/nts-25-03/</loc>
     <lastmod>2025-05-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://netzro.github.io/giftedspace/posts/note-to-self/note-to-self-1/</loc>
+    <loc>//localhost:1313/posts/note-to-self/note-to-self-1/</loc>
     <lastmod>2025-05-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://netzro.github.io/giftedspace/tags/positivity/</loc>
+    <loc>//localhost:1313/tags/positivity/</loc>
     <lastmod>2025-05-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://netzro.github.io/giftedspace/posts/drafts/millionaire-steps/</loc>
+    <loc>//localhost:1313/posts/drafts/millionaire-steps/</loc>
     <lastmod>2025-05-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://netzro.github.io/giftedspace/tags/best-practices/</loc>
+    <loc>//localhost:1313/tags/best-practices/</loc>
     <lastmod>2025-05-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://netzro.github.io/giftedspace/tags/development/</loc>
+    <loc>//localhost:1313/tags/development/</loc>
     <lastmod>2025-05-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://netzro.github.io/giftedspace/tags/documentation/</loc>
+    <loc>//localhost:1313/tags/documentation/</loc>
     <lastmod>2025-05-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://netzro.github.io/giftedspace/tags/europa-league/</loc>
+    <loc>//localhost:1313/tags/europa-league/</loc>
     <lastmod>2025-05-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://netzro.github.io/giftedspace/tags/football/</loc>
+    <loc>//localhost:1313/tags/football/</loc>
     <lastmod>2025-05-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://netzro.github.io/giftedspace/tags/manchester-united/</loc>
+    <loc>//localhost:1313/tags/manchester-united/</loc>
     <lastmod>2025-05-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://netzro.github.io/giftedspace/tags/markdown/</loc>
+    <loc>//localhost:1313/tags/markdown/</loc>
     <lastmod>2025-05-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://netzro.github.io/giftedspace/tags/nigeria/</loc>
+    <loc>//localhost:1313/tags/nigeria/</loc>
     <lastmod>2025-05-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://netzro.github.io/giftedspace/posts/note-to-self/note-to-self-2/</loc>
+    <loc>//localhost:1313/posts/note-to-self/note-to-self-2/</loc>
     <lastmod>2025-05-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://netzro.github.io/giftedspace/tags/omnism/</loc>
+    <loc>//localhost:1313/tags/omnism/</loc>
     <lastmod>2025-05-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://netzro.github.io/giftedspace/tags/omnisophy/</loc>
+    <loc>//localhost:1313/tags/omnisophy/</loc>
     <lastmod>2025-05-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://netzro.github.io/giftedspace/posts/omnisophy/</loc>
+    <loc>//localhost:1313/posts/omnisophy/</loc>
     <lastmod>2025-05-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://netzro.github.io/giftedspace/tags/philosophy/</loc>
+    <loc>//localhost:1313/tags/philosophy/</loc>
     <lastmod>2025-05-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://netzro.github.io/giftedspace/tags/productivity/</loc>
+    <loc>//localhost:1313/tags/productivity/</loc>
     <lastmod>2025-05-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://netzro.github.io/giftedspace/posts/europa-final/</loc>
+    <loc>//localhost:1313/posts/europa-final/</loc>
     <lastmod>2025-05-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://netzro.github.io/giftedspace/tags/universal-wisdom/</loc>
+    <loc>//localhost:1313/tags/universal-wisdom/</loc>
     <lastmod>2025-05-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://netzro.github.io/giftedspace/tags/wealth/</loc>
+    <loc>//localhost:1313/tags/wealth/</loc>
     <lastmod>2025-05-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://netzro.github.io/giftedspace/posts/markdown-syntax/</loc>
+    <loc>//localhost:1313/posts/markdown-syntax/</loc>
     <lastmod>2025-05-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://netzro.github.io/giftedspace/posts/read-the-docs/</loc>
+    <loc>//localhost:1313/posts/read-the-docs/</loc>
     <lastmod>2025-05-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://netzro.github.io/giftedspace/tags/writing/</loc>
+    <loc>//localhost:1313/tags/writing/</loc>
     <lastmod>2025-05-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://netzro.github.io/giftedspace/tags/blogging/</loc>
+    <loc>//localhost:1313/tags/blogging/</loc>
     <lastmod>2025-05-04T03:44:00+00:00</lastmod>
   </url><url>
-    <loc>https://netzro.github.io/giftedspace/posts/long-time-no-blog/</loc>
+    <loc>//localhost:1313/posts/long-time-no-blog/</loc>
     <lastmod>2025-05-04T03:44:00+00:00</lastmod>
   </url><url>
-    <loc>https://netzro.github.io/giftedspace/tags/pelican/</loc>
+    <loc>//localhost:1313/tags/pelican/</loc>
     <lastmod>2025-05-04T03:44:00+00:00</lastmod>
   </url><url>
-    <loc>https://netzro.github.io/giftedspace/tags/hello/</loc>
+    <loc>//localhost:1313/tags/hello/</loc>
     <lastmod>2024-10-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://netzro.github.io/giftedspace/posts/hello-world/</loc>
+    <loc>//localhost:1313/posts/hello-world/</loc>
     <lastmod>2024-10-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://netzro.github.io/giftedspace/tags/world/</loc>
+    <loc>//localhost:1313/tags/world/</loc>
     <lastmod>2024-10-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://netzro.github.io/giftedspace/tags/100daystooffload/</loc>
+    <loc>//localhost:1313/tags/100daystooffload/</loc>
     <lastmod>2024-10-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://netzro.github.io/giftedspace/tags/linux/</loc>
+    <loc>//localhost:1313/tags/linux/</loc>
     <lastmod>2024-10-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://netzro.github.io/giftedspace/posts/ssh-setup/</loc>
+    <loc>//localhost:1313/posts/ssh-setup/</loc>
     <lastmod>2024-10-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://netzro.github.io/giftedspace/tags/ssh/</loc>
+    <loc>//localhost:1313/tags/ssh/</loc>
     <lastmod>2024-10-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://netzro.github.io/giftedspace/posts/mcu-1/</loc>
+    <loc>//localhost:1313/posts/mcu-1/</loc>
     <lastmod>2024-10-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://netzro.github.io/giftedspace/tags/movies/</loc>
+    <loc>//localhost:1313/tags/movies/</loc>
     <lastmod>2024-10-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://netzro.github.io/giftedspace/posts/note-to-self/nts8/</loc>
+    <loc>//localhost:1313/posts/note-to-self/nts8/</loc>
     <lastmod>2024-09-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://netzro.github.io/giftedspace/posts/weeknotes/wn2024-32/</loc>
+    <loc>//localhost:1313/posts/weeknotes/wn2024-32/</loc>
     <lastmod>2024-09-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://netzro.github.io/giftedspace/posts/note-to-self/nts6/</loc>
+    <loc>//localhost:1313/posts/note-to-self/nts6/</loc>
     <lastmod>2024-09-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://netzro.github.io/giftedspace/posts/mcu-movies/</loc>
+    <loc>//localhost:1313/posts/mcu-movies/</loc>
     <lastmod>2024-09-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://netzro.github.io/giftedspace/tags/misc/</loc>
+    <loc>//localhost:1313/tags/misc/</loc>
     <lastmod>2024-08-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://netzro.github.io/giftedspace/posts/rc1/</loc>
+    <loc>//localhost:1313/posts/rc1/</loc>
     <lastmod>2024-08-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://netzro.github.io/giftedspace/posts/note-to-self/nts06/</loc>
+    <loc>//localhost:1313/posts/note-to-self/nts06/</loc>
     <lastmod>2024-08-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://netzro.github.io/giftedspace/posts/note-to-self/nts5/</loc>
+    <loc>//localhost:1313/posts/note-to-self/nts5/</loc>
     <lastmod>2024-08-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://netzro.github.io/giftedspace/posts/note-to-self/nts4/</loc>
+    <loc>//localhost:1313/posts/note-to-self/nts4/</loc>
     <lastmod>2024-08-18T10:12:00+00:00</lastmod>
   </url><url>
-    <loc>https://netzro.github.io/giftedspace/posts/weeknotes/wn2024-33/</loc>
+    <loc>//localhost:1313/posts/weeknotes/wn2024-33/</loc>
     <lastmod>2024-08-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://netzro.github.io/giftedspace/posts/pass1/</loc>
+    <loc>//localhost:1313/posts/pass1/</loc>
     <lastmod>2024-08-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://netzro.github.io/giftedspace/posts/note-to-self/nts3/</loc>
+    <loc>//localhost:1313/posts/note-to-self/nts3/</loc>
     <lastmod>2024-08-11T07:23:00+00:00</lastmod>
   </url><url>
-    <loc>https://netzro.github.io/giftedspace/posts/weeknotes/wn2024-34/</loc>
+    <loc>//localhost:1313/posts/weeknotes/wn2024-34/</loc>
     <lastmod>2024-08-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://netzro.github.io/giftedspace/posts/100daustooffload/</loc>
+    <loc>//localhost:1313/posts/100daustooffload/</loc>
     <lastmod>2024-08-10T20:45:00+00:00</lastmod>
   </url><url>
-    <loc>https://netzro.github.io/giftedspace/posts/content-delivery/</loc>
+    <loc>//localhost:1313/posts/content-delivery/</loc>
     <lastmod>2024-08-10T19:59:00+00:00</lastmod>
   </url><url>
-    <loc>https://netzro.github.io/giftedspace/posts/note-to-self/nts2/</loc>
+    <loc>//localhost:1313/posts/note-to-self/nts2/</loc>
     <lastmod>2024-08-10T07:50:00+00:00</lastmod>
   </url><url>
-    <loc>https://netzro.github.io/giftedspace/tags/mysteries/</loc>
+    <loc>//localhost:1313/tags/mysteries/</loc>
     <lastmod>2024-08-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://netzro.github.io/giftedspace/posts/power-of-focus/</loc>
+    <loc>//localhost:1313/posts/power-of-focus/</loc>
     <lastmod>2024-08-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://netzro.github.io/giftedspace/posts/note-to-self/note-to-self/</loc>
+    <loc>//localhost:1313/posts/note-to-self/note-to-self/</loc>
     <lastmod>2024-08-09T06:55:00+00:00</lastmod>
   </url><url>
-    <loc>https://netzro.github.io/giftedspace/tags/%23100daystooffload/</loc>
+    <loc>//localhost:1313/tags/%23100daystooffload/</loc>
     <lastmod>2024-08-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://netzro.github.io/giftedspace/posts/build-site/</loc>
+    <loc>//localhost:1313/posts/build-site/</loc>
     <lastmod>2024-08-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://netzro.github.io/giftedspace/tags/python/</loc>
+    <loc>//localhost:1313/tags/python/</loc>
     <lastmod>2024-08-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://netzro.github.io/giftedspace/tags/ethics/</loc>
+    <loc>//localhost:1313/tags/ethics/</loc>
     <lastmod>2024-07-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://netzro.github.io/giftedspace/posts/post12/</loc>
+    <loc>//localhost:1313/posts/post12/</loc>
     <lastmod>2024-07-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://netzro.github.io/giftedspace/posts/post11/</loc>
+    <loc>//localhost:1313/posts/post11/</loc>
     <lastmod>2024-07-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://netzro.github.io/giftedspace/tags/morality/</loc>
+    <loc>//localhost:1313/tags/morality/</loc>
     <lastmod>2024-07-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://netzro.github.io/giftedspace/tags/nietzsche/</loc>
+    <loc>//localhost:1313/tags/nietzsche/</loc>
     <lastmod>2024-07-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://netzro.github.io/giftedspace/tags/thelema/</loc>
+    <loc>//localhost:1313/tags/thelema/</loc>
     <lastmod>2024-07-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://netzro.github.io/giftedspace/tags/aging/</loc>
+    <loc>//localhost:1313/tags/aging/</loc>
     <lastmod>2024-07-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://netzro.github.io/giftedspace/tags/humor/</loc>
+    <loc>//localhost:1313/tags/humor/</loc>
     <lastmod>2024-07-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://netzro.github.io/giftedspace/tags/life-lessons/</loc>
+    <loc>//localhost:1313/tags/life-lessons/</loc>
     <lastmod>2024-07-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://netzro.github.io/giftedspace/posts/post10/</loc>
+    <loc>//localhost:1313/posts/post10/</loc>
     <lastmod>2024-07-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://netzro.github.io/giftedspace/tags/grounding/</loc>
+    <loc>//localhost:1313/tags/grounding/</loc>
     <lastmod>2024-06-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://netzro.github.io/giftedspace/tags/mysticism/</loc>
+    <loc>//localhost:1313/tags/mysticism/</loc>
     <lastmod>2024-06-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://netzro.github.io/giftedspace/tags/nature-spirituality/</loc>
+    <loc>//localhost:1313/tags/nature-spirituality/</loc>
     <lastmod>2024-06-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://netzro.github.io/giftedspace/tags/rituals/</loc>
+    <loc>//localhost:1313/tags/rituals/</loc>
     <lastmod>2024-06-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://netzro.github.io/giftedspace/posts/post9/</loc>
+    <loc>//localhost:1313/posts/post9/</loc>
     <lastmod>2024-06-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://netzro.github.io/giftedspace/tags/duality/</loc>
+    <loc>//localhost:1313/tags/duality/</loc>
     <lastmod>2024-06-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://netzro.github.io/giftedspace/posts/post7/</loc>
+    <loc>//localhost:1313/posts/post7/</loc>
     <lastmod>2024-06-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://netzro.github.io/giftedspace/tags/theology/</loc>
+    <loc>//localhost:1313/tags/theology/</loc>
     <lastmod>2024-06-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://netzro.github.io/giftedspace/tags/compassion/</loc>
+    <loc>//localhost:1313/tags/compassion/</loc>
     <lastmod>2024-06-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://netzro.github.io/giftedspace/tags/human-nature/</loc>
+    <loc>//localhost:1313/tags/human-nature/</loc>
     <lastmod>2024-06-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://netzro.github.io/giftedspace/tags/spiritual-growth/</loc>
+    <loc>//localhost:1313/tags/spiritual-growth/</loc>
     <lastmod>2024-06-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://netzro.github.io/giftedspace/posts/post6/</loc>
+    <loc>//localhost:1313/posts/post6/</loc>
     <lastmod>2024-06-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://netzro.github.io/giftedspace/tags/divine-guidance/</loc>
+    <loc>//localhost:1313/tags/divine-guidance/</loc>
     <lastmod>2024-06-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://netzro.github.io/giftedspace/posts/post4/</loc>
+    <loc>//localhost:1313/posts/post4/</loc>
     <lastmod>2024-06-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://netzro.github.io/giftedspace/posts/post5/</loc>
+    <loc>//localhost:1313/posts/post5/</loc>
     <lastmod>2024-06-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://netzro.github.io/giftedspace/tags/intuition/</loc>
+    <loc>//localhost:1313/tags/intuition/</loc>
     <lastmod>2024-06-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://netzro.github.io/giftedspace/tags/self-knowledge/</loc>
+    <loc>//localhost:1313/tags/self-knowledge/</loc>
     <lastmod>2024-06-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://netzro.github.io/giftedspace/posts/post2/</loc>
+    <loc>//localhost:1313/posts/post2/</loc>
     <lastmod>2024-06-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://netzro.github.io/giftedspace/tags/african-philosophy/</loc>
+    <loc>//localhost:1313/tags/african-philosophy/</loc>
     <lastmod>2024-06-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://netzro.github.io/giftedspace/posts/post3/</loc>
+    <loc>//localhost:1313/posts/post3/</loc>
     <lastmod>2024-06-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://netzro.github.io/giftedspace/tags/practical-living/</loc>
+    <loc>//localhost:1313/tags/practical-living/</loc>
     <lastmod>2024-06-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://netzro.github.io/giftedspace/tags/tradition/</loc>
+    <loc>//localhost:1313/tags/tradition/</loc>
     <lastmod>2024-06-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://netzro.github.io/giftedspace/tags/wisdom/</loc>
+    <loc>//localhost:1313/tags/wisdom/</loc>
     <lastmod>2024-06-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://netzro.github.io/giftedspace/tags/finance/</loc>
+    <loc>//localhost:1313/tags/finance/</loc>
     <lastmod>2024-06-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://netzro.github.io/giftedspace/posts/post8/</loc>
+    <loc>//localhost:1313/posts/post8/</loc>
     <lastmod>2024-06-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://netzro.github.io/giftedspace/tags/history/</loc>
+    <loc>//localhost:1313/tags/history/</loc>
     <lastmod>2024-06-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://netzro.github.io/giftedspace/tags/psychology/</loc>
+    <loc>//localhost:1313/tags/psychology/</loc>
     <lastmod>2024-06-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://netzro.github.io/giftedspace/tags/unusual-figures/</loc>
+    <loc>//localhost:1313/tags/unusual-figures/</loc>
     <lastmod>2024-06-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://netzro.github.io/giftedspace/tags/digital-detox/</loc>
+    <loc>//localhost:1313/tags/digital-detox/</loc>
     <lastmod>2018-03-18T12:13:30+05:30</lastmod>
   </url><url>
-    <loc>https://netzro.github.io/giftedspace/posts/post-2/</loc>
+    <loc>//localhost:1313/posts/post-2/</loc>
     <lastmod>2018-03-18T12:13:30+05:30</lastmod>
   </url><url>
-    <loc>https://netzro.github.io/giftedspace/tags/personal-growth/</loc>
+    <loc>//localhost:1313/tags/personal-growth/</loc>
     <lastmod>2018-03-18T12:13:30+05:30</lastmod>
   </url><url>
-    <loc>https://netzro.github.io/giftedspace/posts/post-1/</loc>
+    <loc>//localhost:1313/posts/post-1/</loc>
     <lastmod>2018-03-18T02:01:58+05:30</lastmod>
   </url><url>
-    <loc>https://netzro.github.io/giftedspace/tags/todo/</loc>
+    <loc>//localhost:1313/tags/todo/</loc>
     <lastmod>2018-03-18T02:01:58+05:30</lastmod>
   </url><url>
-    <loc>https://netzro.github.io/giftedspace/blogroll/</loc>
+    <loc>//localhost:1313/blogroll/</loc>
   </url><url>
-    <loc>https://netzro.github.io/giftedspace/uses/</loc>
+    <loc>//localhost:1313/uses/</loc>
   </url><url>
-    <loc>https://netzro.github.io/giftedspace/about/</loc>
+    <loc>//localhost:1313/about/</loc>
   </url><url>
-    <loc>https://netzro.github.io/giftedspace/archives/</loc>
+    <loc>//localhost:1313/archives/</loc>
   </url><url>
-    <loc>https://netzro.github.io/giftedspace/more/</loc>
+    <loc>//localhost:1313/more/</loc>
   </url><url>
-    <loc>https://netzro.github.io/giftedspace/movies/</loc>
+    <loc>//localhost:1313/movies/</loc>
   </url>
 </urlset>

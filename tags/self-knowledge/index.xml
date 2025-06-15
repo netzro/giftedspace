@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Self-Knowledge on Gifted Space</title>
-    <link>https://netzro.github.io/giftedspace/tags/self-knowledge/</link>
+    <link>//localhost:1313/tags/self-knowledge/</link>
     <description>Recent content in Self-Knowledge on Gifted Space</description>
     <generator>Hugo -- 0.147.8</generator>
     <language>en-us</language>
     <copyright>Gifted, 2025</copyright>
     <lastBuildDate>Fri, 14 Jun 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://netzro.github.io/giftedspace/tags/self-knowledge/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:1313/tags/self-knowledge/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The Noble Knowledge of Self: Jacob Boehme&#39;s Path to Fulfillment</title>
-      <link>https://netzro.github.io/giftedspace/posts/post2/</link>
+      <link>//localhost:1313/posts/post2/</link>
       <pubDate>Fri, 14 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>https://netzro.github.io/giftedspace/posts/post2/</guid>
+      <guid>//localhost:1313/posts/post2/</guid>
       <description>Exploring Jacob Boehme&amp;#39;s timeless insight that true fulfillment comes from profound self-knowledge rather than external possessions.</description>
     </item>
   </channel>

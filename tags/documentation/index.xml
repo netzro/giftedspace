@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Documentation on Gifted Space</title>
-    <link>https://netzro.github.io/giftedspace/tags/documentation/</link>
+    <link>//localhost:1313/tags/documentation/</link>
     <description>Recent content in Documentation on Gifted Space</description>
     <generator>Hugo -- 0.147.8</generator>
     <language>en-us</language>
     <copyright>Gifted, 2025</copyright>
     <lastBuildDate>Wed, 21 May 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://netzro.github.io/giftedspace/tags/documentation/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:1313/tags/documentation/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Why Reading Documentation is Crucial for Developers</title>
-      <link>https://netzro.github.io/giftedspace/posts/read-the-docs/</link>
+      <link>//localhost:1313/posts/read-the-docs/</link>
       <pubDate>Wed, 21 May 2025 00:00:00 +0000</pubDate>
-      <guid>https://netzro.github.io/giftedspace/posts/read-the-docs/</guid>
+      <guid>//localhost:1313/posts/read-the-docs/</guid>
       <description>Exploring why thorough documentation reading separates good developers from great ones</description>
     </item>
   </channel>
