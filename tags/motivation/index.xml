@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Motivation on Gifted Space</title>
-    <link>//localhost:1313/tags/motivation/</link>
+    <link>https://netzro.github.io/giftedspace/tags/motivation/</link>
     <description>Recent content in Motivation on Gifted Space</description>
     <generator>Hugo -- 0.147.8</generator>
     <language>en-us</language>
     <copyright>Gifted, 2025</copyright>
     <lastBuildDate>Tue, 27 May 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="//localhost:1313/tags/motivation/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://netzro.github.io/giftedspace/tags/motivation/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>nts:25-05</title>
-      <link>//localhost:1313/posts/note-to-self/nts-25-05/</link>
+      <link>https://netzro.github.io/giftedspace/posts/note-to-self/nts-25-05/</link>
       <pubDate>Tue, 27 May 2025 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/posts/note-to-self/nts-25-05/</guid>
+      <guid>https://netzro.github.io/giftedspace/posts/note-to-self/nts-25-05/</guid>
       <description>&lt;h1 id=&#34;nts25-05&#34;&gt;nts:25-05&lt;/h1&gt;
 &lt;p&gt;Even when it feels slow&amp;hellip; &lt;em&gt;keep going&lt;/em&gt;.&lt;/p&gt;
 &lt;p&gt;You&amp;rsquo;re not behind, you&amp;rsquo;re not failing, you&amp;rsquo;re just building something that takes time.&lt;/p&gt;
@@ -24,9 +24,9 @@
     </item>
     <item>
       <title>nts:25-03</title>
-      <link>//localhost:1313/posts/note-to-self/nts-25-03/</link>
+      <link>https://netzro.github.io/giftedspace/posts/note-to-self/nts-25-03/</link>
       <pubDate>Fri, 23 May 2025 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/posts/note-to-self/nts-25-03/</guid>
+      <guid>https://netzro.github.io/giftedspace/posts/note-to-self/nts-25-03/</guid>
       <description>&lt;h3 id=&#34;note-to-self&#34;&gt;Note To Self&lt;/h3&gt;
 &lt;p&gt;No one stumbles into a beautiful life. You build it—step by step.&lt;/p&gt;
 &lt;p&gt;That quiet alley you’re walking through? It may feel narrow, lonely, or endless. But it’s leading somewhere. Somewhere brighter.&lt;/p&gt;

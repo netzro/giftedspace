@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Nietzsche on Gifted Space</title>
-    <link>//localhost:1313/tags/nietzsche/</link>
+    <link>https://netzro.github.io/giftedspace/tags/nietzsche/</link>
     <description>Recent content in Nietzsche on Gifted Space</description>
     <generator>Hugo -- 0.147.8</generator>
     <language>en-us</language>
     <copyright>Gifted, 2025</copyright>
     <lastBuildDate>Sat, 13 Jul 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="//localhost:1313/tags/nietzsche/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://netzro.github.io/giftedspace/tags/nietzsche/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Master and Slave Morality: Crowley&#39;s Nietzschean Influence</title>
-      <link>//localhost:1313/posts/post11/</link>
+      <link>https://netzro.github.io/giftedspace/posts/post11/</link>
       <pubDate>Sat, 13 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/posts/post11/</guid>
+      <guid>https://netzro.github.io/giftedspace/posts/post11/</guid>
       <description>Examining Aleister Crowley&amp;#39;s appropriation of Nietzsche&amp;#39;s master-slave morality dichotomy within Thelemic philosophy.</description>
     </item>
   </channel>

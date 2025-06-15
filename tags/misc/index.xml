@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Misc on Gifted Space</title>
-    <link>//localhost:1313/tags/misc/</link>
+    <link>https://netzro.github.io/giftedspace/tags/misc/</link>
     <description>Recent content in Misc on Gifted Space</description>
     <generator>Hugo -- 0.147.8</generator>
     <language>en-us</language>
     <copyright>Gifted, 2025</copyright>
     <lastBuildDate>Thu, 29 Aug 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="//localhost:1313/tags/misc/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://netzro.github.io/giftedspace/tags/misc/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My Rubik&#39;s Cube (Part 1)</title>
-      <link>//localhost:1313/posts/rc1/</link>
+      <link>https://netzro.github.io/giftedspace/posts/rc1/</link>
       <pubDate>Thu, 29 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/posts/rc1/</guid>
+      <guid>https://netzro.github.io/giftedspace/posts/rc1/</guid>
       <description>&lt;h2 id=&#34;the-cube&#34;&gt;The Cube&lt;/h2&gt;
 &lt;p&gt;Recently, I decided to buy myself a Rubik&amp;rsquo;s Cube and see how easy or hard solving it would be. In this series of mini-posts, I’ll share my experience and the steps I followed to solve the cube.&lt;/p&gt;
 &lt;h2 id=&#34;the-challenge&#34;&gt;The Challenge&lt;/h2&gt;
@@ -21,9 +21,9 @@
     </item>
     <item>
       <title>Content Delivery</title>
-      <link>//localhost:1313/posts/content-delivery/</link>
+      <link>https://netzro.github.io/giftedspace/posts/content-delivery/</link>
       <pubDate>Sat, 10 Aug 2024 19:59:00 +0000</pubDate>
-      <guid>//localhost:1313/posts/content-delivery/</guid>
+      <guid>https://netzro.github.io/giftedspace/posts/content-delivery/</guid>
       <description>Introducing my Weeknotes and Note to Self (NTS) series for the #100DaysToOffload challenge.</description>
     </item>
   </channel>
